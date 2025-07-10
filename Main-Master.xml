@@ -1,0 +1,14 @@
+<category>
+  <video>
+        <title>চলচ্চিত্র ১: অ্যাডভেঞ্চার</title>
+        <link>http://example.com/movie1.mp4</link>
+        <thumbnail>http://example.com/thumbnails/movie1_thumb.jpg</thumbnail>
+        <fanart>http://example.com/fanarts/movie1_fanart.jpg</fanart>
+ </video>
+ <video>
+        <title>টিভি শো ১: এপিসোড ১</title>
+        <link>http://example.com/tvshow1_ep1.mp4</link>
+        <thumbnail>http://example.com/thumbnails/tvshow1_thumb.jpg</thumbnail>
+        <fanart>http://example.com/fanarts/tvshow1_fanart.jpg</fanart>
+  </video>
+</category>
