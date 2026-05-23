@@ -26,7 +26,7 @@ jobs:
 
     - name: Execute Scraper Script
       run: |
-        python trendyporn_direct_xml.py
+        python direct_xml.py
 
     - name: Commit and Push Generated XML to Repository
       run: |
