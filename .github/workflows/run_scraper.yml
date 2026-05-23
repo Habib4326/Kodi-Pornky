@@ -2,8 +2,8 @@ name: Auto Generate XML
 
 on:
   schedule:
-    # প্রতি ৩ ঘণ্টা পর পর (Exactly every three hour) এটি ব্যাকএন্ডে নিজে থেকেই রান হবে
-    - cron: '0 */3 * * *'
+    # প্রতি ৮ ঘণ্টা পর পর (Exactly every eight hour) এটি ব্যাকএন্ডে নিজে থেকেই রান হবে
+    - cron: '0 */8 * * *'
   workflow_dispatch: # এর মাধ্যমে আপনি যেকোনো সময় ম্যানুয়ালিও রান করতে পারবেন
 
 jobs:
